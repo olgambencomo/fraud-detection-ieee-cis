@@ -10,7 +10,7 @@
 > random baseline). Includes business-driven threshold optimization, SHAP
 > explainability, drift monitoring and an interactive dashboard.
 
-**🔗 Live dashboard:** [Open the app](#) &nbsp;·&nbsp; **📄 Model documentation:** [`model_card.md`](model_card.md)
+**🔗 Live dashboard:** [Open the app](https://fraud-detection-ieee-cis-c3sijbuekwwxee67wbhgfp.streamlit.app/) &nbsp;·&nbsp; **📄 Model documentation:** [`model_card.md`](model_card.md)
 
 ---
 
