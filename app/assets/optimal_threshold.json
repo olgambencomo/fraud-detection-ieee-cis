@@ -1,0 +1,8 @@
+{
+  "optimal_threshold": 0.13,
+  "fn_cost": 135.0,
+  "fp_cost": 10.0,
+  "max_profit": 134120.0,
+  "default_profit": -20200.0,
+  "profit_improvement": 154320.0
+}
